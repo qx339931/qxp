@@ -14,6 +14,11 @@ public class Hello{
 		System.out.println("是个1as23坏孩子");
 		System.out.println("是个1as23坏孩子");
 		System.out.println("是个1as23坏孩子");
+<<<<<<< HEAD
 		System.out.println("是个1asasda坏孩子");
+=======
+		System.out.println("是个1as23坏孩子");
+		System.out.println("是个1as23坏孩子");
+>>>>>>> dev
 	}
 }
