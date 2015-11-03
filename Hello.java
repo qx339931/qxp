@@ -8,5 +8,7 @@ public class Hello{
 		System.out.println("是个1as23坏孩子");
 		System.out.println("是asdas个21312坏孩子");
 		System.out.println("是ad2坏孩子");
+		System.out.println("是ad2b孩子");
+		
 	}
 }
